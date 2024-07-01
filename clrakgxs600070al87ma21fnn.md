@@ -8,6 +8,7 @@ slug: trying-something-new
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705065498036/9760d1ed-af33-4326-bced-a1edbb13bd3d.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1705016773171/d48ff810-cd61-4cd3-a4cf-ce48b232d2cd.jpeg
 tags: startups, entrepreneurship, nextjs, digital-marketing, supabase, micro-saas, solopreneur
+domain: ilearnedathing.com
 
 ---
 
