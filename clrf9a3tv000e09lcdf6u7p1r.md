@@ -6,11 +6,10 @@ datePublished: Mon Jan 15 2024 18:25:49 GMT+0000 (Coordinated Universal Time)
 cuid: clrf9a3tv000e09lcdf6u7p1r
 slug: subscription-or-one-time-purchases
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705343033493/642812b9-3949-4ee2-9347-8a1df5a1f747.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1705343013949/af00a2a2-eaef-4a01-9004-9cf0b7597ee1.jpeg
 tags: buildinpublic, microsaas
-domain: ilearnedathing.com
 
 ---
+
 
 I think consumers are becoming burnt out on subscriptions. There's a subscription for *everything* these days. So I'm going to try to build my SaaS with a one-time purchase model. It's a little different though. Here's how I have [Waitlisty](https://waitlisty.io) set up today:
 
