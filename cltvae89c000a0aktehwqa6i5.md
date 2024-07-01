@@ -8,6 +8,7 @@ slug: i-finally-got-my-first-customerbut
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/AOJGuIJkoBc/upload/b0de118aa99cd321f9a05b17ec8a4801.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1710584888188/e6429029-0cca-479f-a70f-cda449f36eaf.jpeg
 tags: saas, build-in-public, micro-saas, solopreneur
+domain: ilearnedathing.com
 
 ---
 
