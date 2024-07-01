@@ -9,6 +9,7 @@ canonical: https://ilearnedathing.com/post/kubernetes-series-part-3-deploy-a-nod
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1711122120723/5a523ae1-41c5-484f-828d-da633c46571d.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1711122126248/716b10db-3db6-4256-9e7b-622aa27f29ba.jpeg
 tags: docker, nodejs, kubernetes
+domain: ilearnedathing.com
 
 ---
 
