@@ -8,6 +8,7 @@ slug: secure-react-native-app-authentication-with-pocketbase-a-step-by-step-guid
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1711975632028/9e2ace62-476f-482c-bf52-a55cc0320061.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1712056661999/94d7c1cc-1ec2-40ed-b4aa-234305b467af.jpeg
 tags: tutorial, authentication, react-native, reactjs, expo, pocketbase, expo-router
+domain: ilearnedathing.com
 
 ---
 
