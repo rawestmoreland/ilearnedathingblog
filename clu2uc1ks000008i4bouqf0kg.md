@@ -9,6 +9,7 @@ canonical: https://ilearnedathing.com/post/vector-databases-powering-chat-gpt-s-
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1711121904290/65318144-7f54-4026-946b-031e23d26fbe.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1711121922374/7507f429-1fb9-4ef8-8225-daa5a70a2044.jpeg
 tags: ai, vector-database
+domain: ilearnedathing.com
 
 ---
 
