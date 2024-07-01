@@ -7,6 +7,7 @@ cuid: clvkuzvd600030al49s6sarml
 slug: exploring-pocketbase-with-go-a-beginners-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1713870478386/9e978728-84f6-4b3b-9780-a5cfe2e0816a.png
 tags: go, backend-as-a-service, pocketbase
+domain: ilearnedathing.com
 
 ---
 
