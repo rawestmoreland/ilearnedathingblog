@@ -8,6 +8,7 @@ slug: i-built-a-habit-tracking-app-with-watermelondb-and-react-native
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/PkbZahEG2Ng/upload/85a71b0c36f97c29007bd9b9629609d8.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1710598609376/f7813359-cc29-4d79-b2a9-75924fe92eb8.jpeg
 tags: react-native, sqlite, watermelondb
+domain: ilearnedathing.com
 
 ---
 
