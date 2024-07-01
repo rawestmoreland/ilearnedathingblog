@@ -8,6 +8,7 @@ slug: subscription-or-one-time-purchases
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705343033493/642812b9-3949-4ee2-9347-8a1df5a1f747.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1705343013949/af00a2a2-eaef-4a01-9004-9cf0b7597ee1.jpeg
 tags: buildinpublic, microsaas
+domain: ilearnedathing.com
 
 ---
 
