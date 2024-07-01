@@ -7,9 +7,9 @@ cuid: clvkuzvd600030al49s6sarml
 slug: exploring-pocketbase-with-go-a-beginners-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1713870478386/9e978728-84f6-4b3b-9780-a5cfe2e0816a.png
 tags: go, backend-as-a-service, pocketbase
-domain: ilearnedathing.com
 
 ---
+
 
 
 I discovered [PocketBase](https://pocketbase.io) about a year ago and have used it as the backend for several small personal projects. It's a fantastic little backend-as-a-service that works well for small to mid-sized projects. The content for my [personal portfolio](https://richardwestmoreland.com) site is hosted on a PocketBase instance running on Fly.io.
