@@ -6,11 +6,10 @@ datePublished: Mon Feb 12 2024 10:12:33 GMT+0000 (Coordinated Universal Time)
 cuid: clsirzm6q000609l3g6gs08cj
 slug: getting-landing-page-advice-on-reddit
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/0FytazjHhxs/upload/968fd4e5320c645bcb8d7f4f51cc5e00.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1707732701884/ef6751ed-6293-4e7b-9238-562791ddd93d.jpeg
 tags: saas, entrepreneurship, build-in-public, micro-saas, solopreneur
-domain: ilearnedathing.com
 
 ---
+
 
 [Waitlisty](https://waitlisty.io) has been live for almost a month now. But I'm still not seeing any new sign-ups, let alone conversions. So, I started thinking, "maybe it's my landing page". There are tons of build-in-public groups across the socials. I posted my landing page on Twitter and asked for some advice, but the algorithm isn't really boosting my content there *yet*. So the next thing I tried was posting in the [r/SideProject](https://www.reddit.com/r/SideProject/) subreddit. Holy moly, it exploded with views!
 
