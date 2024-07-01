@@ -7,11 +7,10 @@ cuid: clu2u8705000o09jx7mmmeags
 slug: kubernetes-series-part-1-build-an-express-api
 canonical: https://ilearnedathing.com/post/kubernetes-series-part-1-build-an-express-api
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1711122437674/bf9af5df-abb8-48a3-8949-890d8c6cebc6.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1711122442212/b6d12a6e-68cc-49d6-aa3c-acc15a563507.jpeg
 tags: docker, javascript, nodejs
-domain: ilearnedathing.com
 
 ---
+
 
 ## What We’ll Build
 
