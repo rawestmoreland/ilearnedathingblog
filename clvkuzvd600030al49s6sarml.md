@@ -8,6 +8,7 @@ slug: exploring-pocketbase-with-go-a-beginners-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1713870478386/9e978728-84f6-4b3b-9780-a5cfe2e0816a.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1714389063927/6dc0a424-fdd0-4879-9083-bdbdac348658.png
 tags: go, backend-as-a-service, pocketbase
+domain: ilearnedathing.com
 
 ---
 
