@@ -7,6 +7,7 @@ cuid: clrvxlo5g000208l01fu1gh0l
 slug: im-a-builder-i-need-to-become-a-marketer
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/U33fHryBYBU/upload/9d8dd1237d006f5920340dbe45a51577.jpeg
 tags: marketing
+domain: ilearnedathing.com
 
 ---
 
