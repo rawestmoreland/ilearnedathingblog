@@ -7,11 +7,10 @@ cuid: clu2u9lx400020alb62cue6o3
 slug: kubernetes-series-part-2-containerize-a-node-application
 canonical: https://ilearnedathing.com/post/kubernetes-series-part-2-containerize-a-node-application
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1711122291010/8201b259-e71e-473b-b152-f9c38a5be4dc.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1711122331425/42581bff-1312-4cf5-a232-17534137255e.jpeg
 tags: docker, nodejs, kubernetes
-domain: ilearnedathing.com
 
 ---
+
 
 ## What We’ll Build
 
