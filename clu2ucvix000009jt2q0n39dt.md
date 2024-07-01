@@ -9,6 +9,7 @@ canonical: https://ilearnedathing.com/posts/tailwind-css-unveiled-pros-cons-and-
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1711121559426/bb18442c-7589-4506-8e06-2d759425c045.webp
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1711121578178/e8f9bfc1-b4c3-4c4a-9214-2c72965c7e40.webp
 tags: css, tailwindcss
+domain: ilearnedathing.com
 
 ---
 
