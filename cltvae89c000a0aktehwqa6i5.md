@@ -6,11 +6,10 @@ datePublished: Sun Mar 17 2024 09:00:45 GMT+0000 (Coordinated Universal Time)
 cuid: cltvae89c000a0aktehwqa6i5
 slug: i-finally-got-my-first-customerbut
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/AOJGuIJkoBc/upload/b0de118aa99cd321f9a05b17ec8a4801.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1710584888188/e6429029-0cca-479f-a70f-cda449f36eaf.jpeg
 tags: saas, build-in-public, micro-saas, solopreneur
-domain: ilearnedathing.com
 
 ---
+
 
 I was sitting at my desk one evening last week just wrapping up some work. And then I saw it. An email from Stripe saying that I had just received a $15 payment from a purchase on my SaaS - [Waitlisty.io](https://waitlisty.io).
 
