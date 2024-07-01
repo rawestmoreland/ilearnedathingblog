@@ -6,11 +6,10 @@ datePublished: Sat Mar 16 2024 14:18:26 GMT+0000 (Coordinated Universal Time)
 cuid: cltu6axio00010aky6cna5bto
 slug: i-built-a-habit-tracking-app-with-watermelondb-and-react-native
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/PkbZahEG2Ng/upload/85a71b0c36f97c29007bd9b9629609d8.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1710598609376/f7813359-cc29-4d79-b2a9-75924fe92eb8.jpeg
 tags: react-native, sqlite, watermelondb
-domain: ilearnedathing.com
 
 ---
+
 
 Meet Hundred Habits - a habit-tracking app I recently published on both the [iOS App Store](https://apps.apple.com/us/app/hundred-habits/id6478966966) and the [Google Play Store](https://play.google.com/store/apps/details?id=com.westmorelandcreative.hundredhabits). Hundred Habits is based on the Law of 100 principle. If you're not familiar - the Law of 100 is a commitment to a task or a goal for 100 iterations or days. It's about doing something consistently, without fail, 100 times.
 
