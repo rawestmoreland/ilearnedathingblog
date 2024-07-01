@@ -7,9 +7,9 @@ cuid: clrakgxs600070al87ma21fnn
 slug: trying-something-new
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705065498036/9760d1ed-af33-4326-bced-a1edbb13bd3d.jpeg
 tags: entrepreneurship, nextjs, digital-marketing, micro-saas, solopreneur
-domain: ilearnedathing.com
 
 ---
+
 
 
 Two weeks ago marked the beginning of my micro-SaaS adventure with the launch of Waitlisty. Let's be real, marketing is a beast of its own. Surprisingly, people aren't instantly drawn to something, even if you've invested your everything into it. Since kicking off [Waitlisty](https://waitlisty.io), I've seen a whole two sign-ups beyond my inner circle. And guess what? Not a peep of activity from either of them.
