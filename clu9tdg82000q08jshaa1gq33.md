@@ -8,6 +8,7 @@ slug: internationalizing-a-react-native-app-with-i18next-and-expo-part-2
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/bfT3HefGmp0/upload/b93951c9dfb28fc6a1025c2719eddd81.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1711535988772/38c4c3f9-12d0-40b6-92b9-5243ba4fe53f.jpeg
 tags: react-native, reactjs, i18n, localization, i18next, react-18next
+domain: ilearnedathing.com
 
 ---
 
