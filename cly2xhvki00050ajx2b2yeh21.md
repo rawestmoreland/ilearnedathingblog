@@ -7,7 +7,6 @@ cuid: cly2xhvki00050ajx2b2yeh21
 slug: ultimate-beginners-tutorial-getting-started-with-nextjs-14
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1719754036824/f0feb85e-acb1-4e75-a013-ea0cce0983d6.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1719754070763/1fb0e5d8-5a41-400d-9b51-4fe624e92d55.png
-tags: tutorial, javascript, beginners, nextjs, nextjs-14
 
 ---
 
