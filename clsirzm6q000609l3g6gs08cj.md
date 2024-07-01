@@ -8,6 +8,7 @@ slug: getting-landing-page-advice-on-reddit
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/0FytazjHhxs/upload/968fd4e5320c645bcb8d7f4f51cc5e00.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1707732701884/ef6751ed-6293-4e7b-9238-562791ddd93d.jpeg
 tags: saas, entrepreneurship, build-in-public, micro-saas, solopreneur
+domain: ilearnedathing.com
 
 ---
 
