@@ -7,11 +7,10 @@ cuid: clu2ucvix000009jt2q0n39dt
 slug: tailwind-css-unveiled-pros-cons-and-css-alternative-insights
 canonical: https://ilearnedathing.com/posts/tailwind-css-unveiled-pros-cons-and-css-alternative-insights
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1711121559426/bb18442c-7589-4506-8e06-2d759425c045.webp
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1711121578178/e8f9bfc1-b4c3-4c4a-9214-2c72965c7e40.webp
 tags: css, tailwindcss
-domain: ilearnedathing.com
 
 ---
+
 
 The ever-evolving world of frontend development presents numerous CSS frameworks and libraries to choose from, each with its unique features and selling points. One of these popular choices is TailwindCSS, a highly customizable and utility-first CSS framework that has garnered a significant following. This blog post delves into the world of TailwindCSS, discussing its pros and cons, and comparing it to other popular CSS options.
 
