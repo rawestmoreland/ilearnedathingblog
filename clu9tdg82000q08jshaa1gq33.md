@@ -6,11 +6,10 @@ datePublished: Wed Mar 27 2024 13:00:48 GMT+0000 (Coordinated Universal Time)
 cuid: clu9tdg82000q08jshaa1gq33
 slug: internationalizing-a-react-native-app-with-i18next-and-expo-part-2
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/bfT3HefGmp0/upload/b93951c9dfb28fc6a1025c2719eddd81.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1711535988772/38c4c3f9-12d0-40b6-92b9-5243ba4fe53f.jpeg
-tags: react-native, reactjs, i18n, localization, i18next, react-18next
-domain: ilearnedathing.com
+tags: react-native, i18n, localization, i18next, react-18next
 
 ---
+
 
 If you haven't done so already, check out my [Part 1 article here](https://ilearnedathing.com/internationalizing-a-react-native-app-with-i18next-and-expo), where I walk you through setting up i18next and expo-localization in your React Native App.
 
