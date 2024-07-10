@@ -1,10 +1,10 @@
 ---
-title: "Styling Your Next.js App with Tailwind CSS"
+title: "Styling Your Next.js App with TailwindCSS"
 seoTitle: "Next.js App Styling with Tailwind CSS"
 seoDescription: "Learn how to style your Next.js app with Tailwind CSS. This guide covers setup, responsive design, and creating navbars and footers"
 datePublished: Mon Jul 08 2024 12:00:14 GMT+0000 (Coordinated Universal Time)
 cuid: clycxkb06000509jtao8o04gk
-slug: styling-your-nextjs-app-with-tailwind-css
+slug: styling-your-nextjs-app-with-tailwindcss
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1719753885637/2858fb9f-36da-4f78-91c3-02526ffa1877.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1719753947288/b8c6ce5e-aac6-47b4-9cd5-0d9b75d54021.png
 tags: nextjs, tailwind-css, tailwind-css-tutorial
