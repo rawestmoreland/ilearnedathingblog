@@ -88,6 +88,8 @@ Next.js 14 streamlines data fetching with Server Components:
 
 These features combine to make Next.js 14 a robust, efficient, and developer-friendly framework for building modern web applications. As we progress through this guide, we'll explore how to leverage these features in your projects, starting with setting up your development environment in the next section.
 
+%%[spaceship-banner-skinny] 
+
 ### Setting up your development environment
 
 Before we dive into building with Next.js 14, let's set up your development environment. This process involves installing the necessary tools and creating your first Next.js project.
