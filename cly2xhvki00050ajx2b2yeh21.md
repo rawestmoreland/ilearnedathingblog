@@ -10,6 +10,11 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1719754070763/1fb0e
 
 ---
 
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">ℹ</div>
+<div data-node-type="callout-text">This post contains affiliate links. If you make a purchase through these links, I may earn a commission at no additional cost to you. Your support helps me continue creating valuable content. Thank you!</div>
+</div>
+
 Are you looking to level up your web development skills? If you're familiar with React and want to build fast, SEO-friendly web applications, Next.js 14 is your next stop. In this beginner's guide, we'll dive into the latest version of this powerful React framework and show you why it's become a go-to choice for developers worldwide.
 
 Next.js, developed by Vercel, is a React framework that enables you to create full-stack web applications with ease. It simplifies many complex tasks in web development, from routing to server-side rendering, allowing you to focus on building your application rather than configuring tools.
