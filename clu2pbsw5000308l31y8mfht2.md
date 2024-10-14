@@ -7,7 +7,6 @@ cuid: clu2pbsw5000308l31y8mfht2
 slug: internationalizing-a-react-native-app-with-i18next-and-expo-part-1
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/iPp_KIsFBnI/upload/ecabbd9aa4a22d91e47e92a1e882a6b2.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1711104358928/4463be74-aa1b-4bb4-a42d-bbe5bdd25c2c.jpeg
-domain: ilearnedathing.com
 
 ---
 
